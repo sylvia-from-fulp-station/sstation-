@@ -44,7 +44,7 @@ Include = ADMIN
 Exclude =
 Edit =
 
-Name = Admin Candidate
+Name = Skyrat Admin
 Include = @
 Exclude =
 Edit =
@@ -64,7 +64,7 @@ Include = @ STEALTH SOUND DEBUG
 Exclude =
 Edit =
 
-Name = Game Master
+Name = Admin
 Include = EVERYTHING
 Exclude =
 Edit = EVERYTHING
